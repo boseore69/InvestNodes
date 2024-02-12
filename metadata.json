@@ -1,7 +1,7 @@
 {
-  "name": "<OPERATOR_NAME>",
+  "name": "InvestNodes",
   "website": "<YOUR_WEBSITE>",
-  "description": "<DESCRIPTION>",
+  "description": "Nodes for friends",
   "logo": "https://www.example.com/logo.png",
   "twitter": "<YOUR_TWITTER>"
 }
